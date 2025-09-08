@@ -1929,6 +1929,7 @@ function startContest(contestType) {
     "CTS Day1": "CTS Day1",
     "CTS Day2": "CTS Day2",
     "IOI Day1": "IOI Day1",
+    "IOI Day2": "IOI Day2"
   };
 
   // 更新比赛名称
